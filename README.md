@@ -1,5 +1,3 @@
-# introduction_to_ai_project
-
 # AI and Web Scraping Internship Project Plan
 
 ## Week 1: Web Scraping and Data Collection
